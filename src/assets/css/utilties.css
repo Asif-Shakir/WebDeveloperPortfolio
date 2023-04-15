@@ -1,0 +1,176 @@
+.fw-900 {
+  font-weight: 900;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
+.fw-400 {
+  font-weight: 400;
+}
+
+.fw-200 {
+  font-weight: 300;
+}
+
+/***********************FONT SIZES************************/
+.font-size-12 {
+  font-size: 12px !important;
+}
+
+.font-size-13 {
+  font-size: 13px !important;
+}
+
+.font-size-14 {
+  font-size: 14px !important;
+}
+
+.font-size-15 {
+  font-size: 15px !important;
+}
+
+.font-size-16 {
+  font-size: 16px !important;
+}
+
+.font-size-17 {
+  font-size: 17px !important;
+}
+
+.font-size-18 {
+  font-size: 18px !important;
+}
+
+.font-size-19 {
+  font-size: 19px !important;
+}
+
+.font-size-20 {
+  font-size: 20px !important;
+}
+
+.font-size-21 {
+  font-size: 21px !important;
+}
+
+.font-size-22 {
+  font-size: 22px !important;
+}
+
+.font-size-23 {
+  font-size: 23px !important;
+}
+
+.font-size-24 {
+  font-size: 24px !important;
+}
+
+.font-size-25 {
+  font-size: 25px !important;
+}
+
+.font-size-26 {
+  font-size: 26px !important;
+}
+
+.font-size-27 {
+  font-size: 27px !important;
+}
+
+.font-size-28 {
+  font-size: 28px !important;
+}
+
+.font-size-29 {
+  font-size: 29px !important;
+}
+
+.font-size-30 {
+  font-size: 30px !important;
+}
+/***********************COLORS************************/
+.primary-clr {
+  color: var(--primary) !important;
+}
+
+.primary-light-clr {
+  color: var(--primary-light) !important;
+}
+
+.gray-800-clr {
+  color: var(--gray-800) !important;
+}
+
+.gray-600-clr {
+  color: var(--gray-600) !important;
+}
+
+.gray-500-clr {
+  color: var(--gray-500) !important;
+}
+
+.gray-300-clr {
+  color: var(--gray-300) !important;
+}
+
+.ghost-white-clr {
+  color: var(--ghost-white) !important;
+}
+
+.white-clr {
+  color: var(--white) !important;
+}
+/***********************BACKGROUNDS************************/
+.primary-bg {
+  background-color: var(--primary) !important;
+}
+
+.primary-light-bg {
+  background-color: var(--primary-light) !important;
+}
+
+.gray-800-bg {
+  background-color: var(--gray-800) !important;
+}
+
+.gray-600-bg {
+  background-color: var(--gray-600) !important;
+}
+
+.gray-500-bg {
+  background-color: var(--gray-500) !important;
+}
+
+.gray-300-bg {
+  background-color: var(--gray-300) !important;
+}
+
+.ghost-white-bg {
+  background-color: var(--ghost-white) !important;
+}
+
+.white-bg {
+  background-color: var(--white) !important;
+}
+
+button.primary-bg:hover {
+  background-color: var(--gray-800) !important;
+  color: var(--white);
+}
+.sharp-btn{
+    border-radius:0px !important
+}
